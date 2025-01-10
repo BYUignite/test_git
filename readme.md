@@ -1,10 +1,10 @@
-git init
-git status
-git commit -m "some commit message"
-git log
-git lg
-git add
-git diff some_file       (diffs vs what's been committed)
+git init  
+git status  
+git commit -m "some commit message"  
+git log  
+git lg  
+git add  
+git diff some_file       (diffs vs what's been committed)  
 
 Contents of ~/.gitconfig
 ```
